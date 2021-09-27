@@ -1,1 +1,1 @@
-
+This assignment was about threading in computers. Primary objective was to add concurrency in the given code using threading. The attached design.pdf file explains the changes done by me in the code to implement the concurrency. The attached txt files are sample inputs which can be used to test the code. This code uses the pthread library which is primarily based on Linux.
