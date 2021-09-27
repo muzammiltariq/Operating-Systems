@@ -1,1 +1,1 @@
-
+This assignment was about proccess scheduling. I wrote code in C language to simulate process scheduling with 4 different policies which were FIFO, SJF, STCF, RR
